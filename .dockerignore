@@ -1,0 +1,6 @@
+*.csv
+*.csv.zip
+*.pkl
+*.venv
+*.vscode
+train.csv.zip

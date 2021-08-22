@@ -1,0 +1,5 @@
+[kaggle]
+    KAGGLE_USERNAME="ferraz"
+    
+[dataset]
+    nyc_fare_train_dataset="train.csv.zip"

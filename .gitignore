@@ -1,0 +1,7 @@
+*.csv
+# Ignore dynaconf secret files
+.secrets.*
+.venv
+*.pyc
+*.csv.zip
+*.vscode
